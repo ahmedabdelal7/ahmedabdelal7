@@ -49,14 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-abdelal09\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abdelal09\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 📧 Email
