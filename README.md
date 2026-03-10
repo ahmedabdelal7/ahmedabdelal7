@@ -57,7 +57,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 [aabdelaal.dev@gmail.com](mailto:aabdelaal.dev@gmail.com)
 
 💼 LinkedIn
-https://www.linkedin.com/in/ahmedabdelaal-dev/
+https://www.linkedin.com/in/ahmedabdelal7/
 
 ---
 
