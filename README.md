@@ -50,10 +50,14 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
+<!--![](https://github-readme-stats.vercel.app/api?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdela17&show_icons=true&theme=dark)<br/>-->
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdela17&show_icons=true&theme=dark)<br/>
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdela17&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdela17&theme=dark)
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedabdelal7&theme=dark&hide_border=false)<br/>
