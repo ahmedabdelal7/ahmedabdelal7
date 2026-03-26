@@ -55,10 +55,11 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdela17&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelal7&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdela17&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark)
 
+------------------------------
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmedabdelal7&theme=dark&hide_border=false)<br/>
 
