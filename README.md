@@ -61,7 +61,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmedabdelal7&theme=dark" width="50%"/>
@@ -69,7 +69,7 @@ Aspiring Backend Developer | .NET Developer | Software Engineer
 
 ---
 
-### Thanks for Visiting my GitHub Profile!
+<h2 align="center">Thanks for Visiting my GitHub Profile!</h2>
 
 ---
 
